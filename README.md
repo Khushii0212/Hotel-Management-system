@@ -120,9 +120,9 @@ http://localhost:3000
 
 ## 👤 Author
 
-**Anmol Kushwaha**  
+**Khushi Prasad**  
 B.Tech CSE | Full-Stack Developer  
-GitHub: https://github.com/anmol1kush
+GitHub: https://github.com/khushii0212
 
 ---
 
