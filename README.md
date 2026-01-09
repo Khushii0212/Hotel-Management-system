@@ -43,7 +43,7 @@ This project highlights real-world full-stack development by connecting the fron
 **Database**
 - MySQL
 
-📌 Project Purpose
+**📌 Project Purpose**
 
 HotelHub was built to practice and demonstrate full-stack development skills, including authentication, database management, and complete feature integration from frontend to backend.
 
