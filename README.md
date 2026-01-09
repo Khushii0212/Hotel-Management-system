@@ -5,7 +5,6 @@ HotelHub is a full-stack Hotel Management System designed to simplify hotel oper
 Users can register, log in securely, explore available hotels and rooms, make bookings, and post reviews based on their stay. The system is powered by a strong backend that ensures data is handled efficiently and securely.
 
 This project highlights real-world full-stack development by connecting the frontend and backend seamlessly and implementing core features used in modern web applications.
----
 
 ## 🚀 Features
 
